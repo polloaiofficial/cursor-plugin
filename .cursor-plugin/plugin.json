@@ -1,0 +1,24 @@
+{
+  "name": "pollo",
+  "displayName": "Pollo AI",
+  "description": "One Pollo sign-in for leading image and video models. Estimate credits, generate or edit, and keep going in the same conversation.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Pollo AI",
+    "email": "support@pollo.ai"
+  },
+  "publisher": "pollo",
+  "homepage": "https://pollo.ai/mcp",
+  "repository": "https://github.com/polloaiofficial/cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "pollo",
+    "pollo ai",
+    "pollo mcp",
+    "seedance",
+    "kling"
+  ],
+  "category": "developer-tools",
+  "tags": ["multi-model", "credits", "image-to-video", "reference"]
+}

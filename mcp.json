@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "pollo": {
+      "type": "http",
+      "url": "https://mcp.pollo.ai/mcp"
+    }
+  }
+}
